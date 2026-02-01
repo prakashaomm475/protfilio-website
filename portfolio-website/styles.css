@@ -2444,4 +2444,5 @@ a[target="_blank"]:hover::after {
 .projects .container {
     position: relative;
     z-index: 1;
+
 }
